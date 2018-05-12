@@ -19,6 +19,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45371#Seikkailu-saaristossaLaulunsekainen-huvin-ytelm--kahdessa-n-yt-ksess---Finnish-
 gutenberg_issued: '2014-04-13'
 gutenberg_type: Text
 identifiers:
